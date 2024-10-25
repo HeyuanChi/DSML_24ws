@@ -1,1 +1,1 @@
-Exercise of lecture DSML 24ws of Heidelberg University
+Assignments for 24ss DSML at Heidelberg University
